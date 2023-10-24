@@ -1,0 +1,5 @@
+Robots meta directives are pieces of code that provide to index web page content.
+
+There are two types of robots meta directives: those that are part of the HTML page (like the meta robots tag) and those that the web server sends as HTTP headers (such as x-robots-tag).
+
+meta name="robots" content="noindex" /> = These meta tags control the behavior of search engine crawling and indexing.

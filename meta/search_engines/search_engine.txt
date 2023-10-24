@@ -1,0 +1,11 @@
+1)<meta name="googlebot" content="notranslate">
+
+This gives you the chance to provide your unique and compelling content to a much larger group of users. However, there may be situations where this is not desired. This meta tag tells Google that you don't want us to provide a translation for this page.
+
+
+
+
+
+2)<meta name="viewport" content="...">
+
+This tag tells the browser how to render a page on a mobile device. Presence of this tag indicates to Google that the page is mobile friendly.
