@@ -1,12 +1,12 @@
-function scrollUp(){
+const scrollUp = () => {
 
     const scrollUp = document.getElementById('scroll-up')
 
-    if(this.scrollY >= 560){
+    if (this.scrollY >= 460) {
 
         scrollUp.classList.add('show-scroll')
 
-    }else{
+    } else {
 
         scrollUp.classList.remove('show-scroll')
 
@@ -15,3 +15,9 @@ function scrollUp(){
 }
 
 window.addEventListener('scroll', scrollUp)
+
+const goTop = () => {
+
+    window.scrollTo(0, 0)
+
+}
