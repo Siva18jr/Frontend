@@ -15,3 +15,6 @@ Detailed and underrated Concepts or Features of Frontend techonolgy
 6) Download a Json object to file (download files)
 
 7) Reponsive grid without media query
+
+8) Animation using frontend tools (animation)
+(a)input box animations (input)
