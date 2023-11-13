@@ -19,3 +19,5 @@ Detailed and underrated Concepts or Features of Frontend techonolgy
 8) Animation using frontend tools (animation)
 (a)input box animations (input)
 (b)loading using html, css and js (loading)
+
+9) Javascript Browser window objects (window)
